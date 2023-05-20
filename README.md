@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itzsaad8
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me msikhan32@gmail.com
+- 👋 Hi, I’m Saad Khan
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Frontend Web Projects
+- 📫 How to reach me : msikhan32@gmail.com
 
 <!---
 itzsaad8/itzsaad8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
