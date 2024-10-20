@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsaad8" alt="itzsaad8" /></a> </p>
 
-- 🌱 I’m currently learning **React JS Express JS Node JS MongoDB**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itzsaad8?tab=repositories](https://github.com/itzsaad8?tab=repositories)
 
